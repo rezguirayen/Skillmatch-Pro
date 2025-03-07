@@ -84,12 +84,6 @@
             <mxPoint x="440" y="-740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ABilkXXKORPA1t6yWO2w-62" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" parent="1" source="ABilkXXKORPA1t6yWO2w-53" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint y="-1070" as="sourcePoint" />
-            <mxPoint y="-940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ABilkXXKORPA1t6yWO2w-71" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="-490" width="90" height="30" as="geometry" />
         </mxCell>
